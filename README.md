@@ -1,18 +1,4 @@
 # 6ix
-six columns grid, same as 12
 
-# One Column
+A six columns grid layout for a mordern browsing experience.
 
-  .col-1 {
-    8.333333333334%
-  }
----
-16.666666666667%
-
-25%
-
-33.333333333334%
-
-41.666666666667%
-
-50%
