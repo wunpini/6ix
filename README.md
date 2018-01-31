@@ -1,6 +1,6 @@
 # 6ix
 
-A six column grid system, is **12 columns**  not **_6 columns_**.
+A 12 column grid system, is **6 columns**  not **_12 columns_**.
 
 > _SIMPLE is elegance_.
 ---
