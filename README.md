@@ -1,4 +1,4 @@
 # 6ix
 
-A six columns grid layout for a mordern browsing experience.
+A six (**6ix**) columns grid system for a mordern browsing experience.
 
